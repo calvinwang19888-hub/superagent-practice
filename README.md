@@ -38,7 +38,7 @@ python -m unittest discover -s tests -v
 ## 目录结构
 
 ```text
-todo_cli/            极简任务清单工具（内含 2 个标注清楚的缺陷）
+todo_cli/            极简任务清单工具（内含 3 个标注清楚的缺陷）
 tests/               基线测试（默认分支保持绿色）
 issues/              教师按课程节奏发布的议题
 scripts/             议题发布与 CI 失败演示脚本
